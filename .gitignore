@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/icewmmenu
+icewmmenu.so
+icewmmenu.dylib
+icewmmenu.dll
+icewmmenu.a
+icewmmenu.lib
+icewmmenu-test-*
+*.exe
+*.o
+*.obj
+*.lst

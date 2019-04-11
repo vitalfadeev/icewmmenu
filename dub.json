@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"vital"
+	],
+	"copyright": "Copyright © 2019, vital",
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "icewmmenu",
+	"dependencies": {
+	    "libmenu": {"path": "./../libmenu"}
+	}
+}
